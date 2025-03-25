@@ -1,19 +1,36 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+🔒 Password Generator
+🌟 Description
+A password generator that allows users to create strong, random passwords. The app allows customization of the password's length and includes a mix of uppercase letters, lowercase letters, numbers, and special characters to enhance security.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+🚀 Live Demo
+Check out the live version here: https://matthieukapanga.github.io/Password-Generator/
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+🔧 Tech Stack
+HTML
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+CSS
 
-Happy Coding!
+JavaScript
+
+💡 Features
+🔑 Generate random passwords with customizable length
+
+🧩 Include uppercase, lowercase, numbers, and special characters
+
+🔄 Simple and easy-to-use UI
+
+🛠️ Setup Instructions
+Clone the repo:
+
+bash
+Copy
+Edit
+git clone https://github.com/matthieukapanga/Password-Generator.git
+Open index.html in your browser.
+
+🧠 What I Learned
+🛠️ Generating random values with JavaScript
+
+🔒 Building a secure password generator
+
+🎯 Handling user input and updating the UI dynamically
