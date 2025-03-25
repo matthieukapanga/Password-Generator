@@ -1,4 +1,5 @@
 🔒 Password Generator
+
 🌟 Description
 A password generator that allows users to create strong, random passwords. The app allows customization of the password's length and includes a mix of uppercase letters, lowercase letters, numbers, and special characters to enhance security.
 
